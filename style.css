@@ -53,6 +53,7 @@ header {
 
 .cat__image {
   max-width: 85%;
+  max-height: 85%;
 }
 
 button.get {
